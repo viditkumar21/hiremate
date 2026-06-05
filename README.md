@@ -211,7 +211,7 @@ Each step is isolated and protected with fallbacks to ensure stability.
 
 ## Author
 
-Chirag
+Vidit
 
 ---
 
